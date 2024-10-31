@@ -7,6 +7,7 @@ export default function Footer(){
              font-bold">
                 Made by <Link href="https://www.linkedin.com/in/muhammad-rayyan-naveed-63090b329/  " target="_blank">Muhammad Rayyan Naveed</Link> 
             </footer>
+            // absolute w-full bottom-0 left-0
 
     )
 }
