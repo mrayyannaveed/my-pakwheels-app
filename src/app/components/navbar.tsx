@@ -28,9 +28,9 @@ export default function Navbar(){
                     </div>
                 </div>
                 <div className="flex items-center justify-evenly pt-2 pb-8 px-3 flex-col">
-                <div>
+                {/* <div>
                     <img src="https://wsa1.pakwheels.com/assets/new-pw-logo-white-c4cd16ae34613cc1fa16d7840f34a71e.svg" height={150} width={150} alt="pak" />
-                </div>
+                </div> */}
                 <div className="text-white p-2 md:flex-row text-[13px] sm:text-[14px] md:text-[15px]">
 
                     <ul className="flex gap-1 sm:gap-3 flex-col sm:flex-row lg:gap-6 md:gap-6">
