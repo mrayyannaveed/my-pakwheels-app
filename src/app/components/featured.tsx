@@ -12,7 +12,11 @@ export default function Featured(){
                         <li className="hover:border-b-4 border-blue-500 pb-4 cursor-pointer">Newly Launched</li>
                     </ul>
                 </div>
+<<<<<<< HEAD
                 <div className="flex justify-between flex-col lg:flex-row items-center gap-1 md:gap-2">
+=======
+                <div className="flex justify-between flex-col items-center gap-1 md:gap-2">
+>>>>>>> 255e205b3aa5fe10d5bd7cf9f4c56b660208cfdc
                     <Link href="../Toyota-Corolla">
                     <div className="w-52 h-64 md:w-44 lg:w-54 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white">
                         <img src="https://cache1.pakwheels.com/system/car_generation_pictures/5361/medium/Corolla-X-Cars-Cropped-Pictures-for-Website.jpg?1606903674" alt="corolla" />
