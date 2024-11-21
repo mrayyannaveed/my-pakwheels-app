@@ -3,7 +3,7 @@ import Link from "next/link"
 export default function Featured(){
     return(
         <div className="bg-slate-200">
-            <div className="w-[75vw] mt-20 mb-10 m-auto pb-10 ">
+            <div className="w-[75vw] mt-20 mb-10 m-auto pb-20 ">
                 <h1 className="text-[15px] sm:text-[17px] md:text-[19px] mb-4 text-blue-800">Featured New Cars</h1>
                 <div>
                     <ul className="flex gap-4 my-4 text-xs sm:text-sm md:text-base md:gap-6">
