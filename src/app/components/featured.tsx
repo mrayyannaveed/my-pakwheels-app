@@ -13,30 +13,30 @@ export default function Featured(){
                     </ul>
                 </div>
                 {/* <div className="flex justify-between flex-col lg:flex-row items-center gap-1 md:gap-2"> */}
-                <div className="flex justify-between flex-col items-center gap-1 md:gap-2">
+                <div className="flex justify-between flex-col lg:flex-row items-center gap-1 md:gap-2">
                     <Link href="../Toyota-Corolla"  passHref>
-                    <div className="w-52 h-64 md:w-44 lg:w-54 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white cursor-pointer">
+                    <div className="w-52 h-64 md:w-50 lg:w-58 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white cursor-pointer">
                         <img src="https://cache1.pakwheels.com/system/car_generation_pictures/5361/medium/Corolla-X-Cars-Cropped-Pictures-for-Website.jpg?1606903674" alt="corolla" />
                         <h3 className="text-base sm:text-[18px] text-center text-blue-800">Toyota Corolla</h3>
                         <h3 className="text-base sm:text-[18px] text-center text-green-500">PKR59.7 - 75.5lacs</h3>
                     </div>
                     </Link>
                     <Link href="../Suzuki-Alto"  passHref>
-                    <div className="w-52 h-64 md:w-44 lg:w-54 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white cursor-pointer">
+                    <div className="w-52 h-64 md:w-50 lg:w-58 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white cursor-pointer">
                         <img src="https://cache4.pakwheels.com/system/car_generation_pictures/6013/medium/Suzuki_Alto_-_PNG.png?1635945100" alt="alto" />
                         <h3 className="text-base sm:text-[18px] text-center text-blue-800">Suzuki Alto</h3>
                         <h3 className="text-base sm:text-[18px] text-center text-green-500">PKR23.7 - 30.2lacs</h3>
                     </div>
                     </Link>
                     <Link href="../Honda-City"  passHref>
-                    <div className="w-52 h-64 md:w-44 lg:w-54 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white cursor-pointer">
+                    <div className="w-52 h-64 md:w-50 lg:w-58 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white cursor-pointer">
                         <img src="https://cache1.pakwheels.com/system/car_generation_pictures/6425/medium/Honda_City_Front.jpg?1651424945" alt="city" />
                         <h3 className="text-base sm:text-[18px] text-center text-blue-800">Honda City</h3>
                         <h3 className="text-base sm:text-[18px] text-center text-green-500">PKR48.5 - 58.5lacs</h3>
                     </div>
                     </Link>
                     <Link href="../Honda-Civic"  passHref>
-                    <div className="w-52 h-64 md:w-44 lg:w-54 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white cursor-pointer">      
+                    <div className="w-52 h-64 md:w-50 lg:w-58 lg:h-66 xl:w-56 xl:h-68 md:h-58 hover:bg-slate-300 border-2 bg-white cursor-pointer">      
                         <img src="https://cache4.pakwheels.com/system/car_generation_pictures/7370/medium/Cover.jpg?1677570254" alt="civic" />
                         <h3 className="text-base sm:text-[18px] text-center text-blue-800">Honda Civic</h3>
                         <h3 className="text-base sm:text-[18px] text-center text-green-500">PKR59.6 - 99.0lacs</h3>
